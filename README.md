@@ -20,6 +20,7 @@ nodemon - To start the server
 ![Alt text](/public/img/giphy.gif "Git checkbox")
 ![Alt text](/public/img/404page.png "Git checkbox")
 
+
 # All requests on all pages
 
 - Create a new guest
