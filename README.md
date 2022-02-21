@@ -18,7 +18,7 @@ nodemon - To start the server
 
 - If you reach a page that does not exist, you will receive page 404 (does not exist)
 ![Alt text](/public/img/giphy.gif "Git checkbox")
-![Alt text](/public/img/404page.png "Git checkbox")
+
 
 # All requests on all pages
 
