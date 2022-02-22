@@ -27,8 +27,12 @@ nodemon - To start the server
 ![Alt text](/public/img/one.png "Git checkbox")
 
 - Delete one Guest by Id
+
 ![Alt text](/public/img/del.png "Git checkbox")
+
 ![Alt text](/public/img/del2.png "Git checkbox")
+
+
 
 - Get all room
 ![Alt text](/public/img/room1.png "Git checkbox")
